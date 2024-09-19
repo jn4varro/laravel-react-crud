@@ -17,8 +17,8 @@ Asegúrate de tener instalados en tu máquina:
 Primero, clona el repositorio desde GitHub:
 
 
-git clone https://github.com/jn4varro/nombre-del-repositorio.git
-cd nombre-del-repositorio
+git clone https://github.com/jn4varro/laravel-react-crud.git
+cd laravel-react-crud
 
 ### Configuración del Backend (Laravel)
 
