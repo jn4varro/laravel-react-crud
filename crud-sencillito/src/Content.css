@@ -1,0 +1,6 @@
+.tablaNotas{
+    font-family: system-ui ;
+    justify-content:space-between ;
+    border:4px solid #ccc;
+    min-width: 400px;
+}

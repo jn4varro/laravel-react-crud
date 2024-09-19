@@ -1,0 +1,14 @@
+# Ignorar dependencias de Node.js
+crud-sencillito/node_modules
+crud-sencillito/dist
+
+# Ignorar dependencias de PHP/Laravel
+backend-crud/vendor
+backend-crud/public/storage
+backend-crud/storage/*.key
+backend-crud/.env
+
+# Archivos y carpetas específicas del entorno de trabajo
+.DS_Store
+npm-debug.log
+yarn-error.log
